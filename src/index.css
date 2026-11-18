@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fundo Bege Aconchegante e Reset */
+body {
+  margin: 0;
+  background-color: #fbf9f5;
+  color: #3e3a36;
+  font-family: system-ui, -apple-system, sans-serif;
+}
